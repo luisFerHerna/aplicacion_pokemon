@@ -147,7 +147,7 @@ class _PokemonScreenState extends State<PokemonScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          "Pokédex Nacional",
+          "Pokédex App",
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
       ),
