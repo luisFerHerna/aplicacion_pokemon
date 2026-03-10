@@ -1,0 +1,11 @@
+# 1. Ignorar absolutamente todo el contenido del proyecto
+*
+
+# 2. Excepciones (Lo que SÍ se va a subir a GitHub)
+!.gitignore
+!lib/
+!lib/**
+!assets/
+!assets/**
+!pubspec.yaml
+!README.md
